@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-fatwa-and-ruling-repository
+description: "BIAN Service Domain: Fatwa And Ruling Repository (Catalog pattern, Shariah Governance and Compliance)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - catalog
+annotations:
+  isb/business-area: "Shariah Governance and Compliance"
+  isb/business-domain: "Shariah Governance"
+  isb/asset-type: "Shariah Ruling"
+  isb/control-record: "Shariah Ruling Directory Entry"
